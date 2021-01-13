@@ -1,0 +1,12 @@
+{
+  "title": "Wsky TTT Round Victory",
+  "type": "ServerContent",
+  "tags": [
+    "fun"
+  ],
+  "ignore": [
+    ".git/*",
+    ".gitattributes",
+    "*.md"
+  ]
+}
