@@ -1,7 +1,5 @@
 if CLIENT then return end
 
-include('sv_files.lua')
-
 util.AddNetworkString("WskyTTT_RoundVictory_PlaySound")
 
 CreateConVar("wsky_round_victory_rick_roll", 0, 0, "Never gonna give you up!", 0, 1)

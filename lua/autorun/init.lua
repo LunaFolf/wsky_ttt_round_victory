@@ -1,1 +1,3 @@
-AddCSLuaFile('cl_init.lua')
+AddCSLuaFile('client/init.lua')
+
+include('loadFiles.lua')
